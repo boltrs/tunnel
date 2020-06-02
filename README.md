@@ -31,7 +31,7 @@ $ pkg install git -y
 $ pip install lolcat
 ```
 ```
-$ git clone https://github.com/hackerwasi/tunnel
+$ git clone https://github.com/zahrairshad/tunnel.git
 ```
 ```
 $ ls
